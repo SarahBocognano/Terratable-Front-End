@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "6227345987be9b74ab8aec62",
+        "name": "Noire de crimé",
+        "sku": "tomate-14",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJiSURBVDjLpZNLbxJRFMf7AfwEfA5YunTDwsTuujO+YsLGxEVTV066cdGYQmaAKKZNawOVSE2qltRIW+kI0jQWOlCGh0Bb6FAYcBgYGKAc51wegrrzJv9k5ub8f+dx750CgKlx3bCBTpNBk1HTzEDGwZ7uz/hx4zVN+icbksnz9YwJHiXZ4+iJGOFi4v5hnH2zl2Fm3RUTxmDsBGBgvu7yF6jISZoXyhLIShs6Vz2iWkOFfLECgUOOX9pOUxg7hAwBejRz8R9ys9UBXIrahYrcBlFTvdUle7Kiwn4oLDu2EgjREwD2hWVj5qE5X2lBodoCoaoS4fdGsDiCbO8E+EdrArajQ4DBw54yWDYuzDg9vwcPbNEJ8z2Gg7Nyk8TEMxdAu4MMehFgDHxPsNgzllquIWCXALCSt5r5JnVAALlSE6RGBy6rCiyvv2fRi4CZ8HFUxGGhuSSpME3twn0rB8xWjnyjEJApKqQKtXMFa851Eb0EcBThCADNqFtPfcRg9Z5OANKCMqiiDcsrr0cA45eDGFuVW1BTOlD8iYDPxJC9VPotDQCpiwY5meR5FWiHc9SCwelLMbl8GXo9IIPD4Dt0PyMKq8K9RL4B7W4Pdr7FgLJ/HA1R99hVMvn8IV6UmiRgeHzJQoMIjfiPCVJadsuLVf6uPdk/xuFFot9FqM1Pflmo1Elgtd4h/WIbeLQITp5XwOxwyXP01u+LNH6VF5whatW9yQfDKcgJEpkJ9hzLiuD1R2CBXuJnLR/+vsrjj+nhq6xp/qWXeW5bYWmrXVy0MOIzs4OdM3uY20z834/pf57zL6w/CRKnLd7XAAAAAElFTkSuQmCC",
+        "description": "La tomate Noire de Crimée est une variété connue pour la couleur de ses fruits bordeaux presque noirs et partiellement verts. Elle est productive et produit des fruits pouvant aller jusqu'à environ 150 grammes. Parfaite pour les salades d'été. Semis Récolte Jan Fév Mar Avr Mai Jui Jui Aoû Sep Oct Nov Déc",
+        "resume": "La bonne tomate noire et sucrée",
+        "categorie": "légumes",
+        "enable": true,
+        "promote": false,
+        "producer": "6227333387be9b74ab8aec4f",
+        "priceAverage": "3",
+        "unit": "Kg"
+    },
+    {
+        "_id": "6227345987be9b74ab8aec63",
+        "name": "Tomates cerise",
+        "sku": "tomate-12",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIRSURBVDjLjZO9a1NhFMabozgIgqjgYkGwY7dKRScXBf8C/QfUycnBDpk6dHATkiGziEtFcBGkaZrmQ5M2sWlD0zbahgSS5t6ENLm5Nx837eM5r016k7boC8/ynvf5nXMeeMcAjIn43GJNsab/odssGvgcgKl2u31g2/Zhr9fDWeI6PB7POyfECZgWc7PZhGmaA9XrddRqNZTLZQUplUrwer0DSN/sEoA8aLVa6HQ6SDcaeJ7L4dH2FkoM0DRNASzLgjTx+Xx/IaMAMX/QddxMb4CSSdxY+4ly/QA6342upDIZBaSYfm09xeYE7m9u4v3+Php8J6tUKhU1SbFYPB/wbPc3KLGKh1sZWLYNzkWFJ3k0eC3Jo1qtDgNoJT7pcrtfzHPhCne+uBLHR11DgB9/5bsFlkBkf8MwFGgYkEzMS1cGgeIxPEinMZPbA0XCoHAIV6MRdLtdlY9ARMOAeOw1+f2rFPsB+h7F20IBc/k8JgS4HMQdvpdVBCCSaU5l4PJ6ZsV8mZU1m+rB49QaaCmAl5mMmkAk5iEAdyUe9QkFl3QZ91U2C5uLs3u7uBBYxCVWmDPoA/o6AUQjXxhwJOZ7HKDG9De/sqCAH7S4gJmdbTX+qE4A4VCeQssGff70rWBZR1J4urGO68Eg3DyNddztDB0OMjjO4S4HZErhvM/kNPNbQ/1eB2BcIP/xnfuSrz/+BzfCswvzr5lXAAAAAElFTkSuQmCC",
+        "description": "La tomate cerise est une variété, parmi tant d'autres, de la tomate. On l'apprécie pour sa petite taille et son goût prononcé, particulièrement à l' apéritif pour son côté pratique mais aussi en salade avec un filet d'huile d'olive et quelques feuilles de basilic .",
+        "resume": "Le restaurant Tomate Cerise vous accueil à Arras, Noyelles-Godault et Wambrechies. Charme, fraicheur et qualité sont les maîtres mots de nos restaurants.",
+        "categorie": "légumes",
+        "enable": false,
+        "promote": false,
+        "producer": "6227333387be9b74ab8aec4f",
+        "priceAverage": "4",
+        "unit": "Kg"
+    },
+    {
+        "_id": "6227345987be9b74ab8aec64",
+        "name": "Soupe de Lentilles",
+        "sku": "soup-1428",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKJSURBVDjLnZPfS5NRGMffq/6BIMhuuvRGKLqooItuugiCoi4qiNDoh2RS6BCnkA6mG+3dD0bvHDXB0iTtwm1M4X39sQ0ZqAzJJYGUNWFuMje3vdtSW9u38xxaDOvKA9/3cA7P93Oe9znPEVwul8XpdN4CIBxGwsDAQL3dbp8zm80NhwLQx2Qyafr7+8O9vb3HDgXQ6/VHenp6ZrRa7Vx7e/tR2ltYWDDMz89X/H5/RVGUvcnJSb/b7b7wXwApEAi0tLW1bVksli/BYDDEzD/YACkT8OO7x42xsbG9kZER7T+ASCQiLy8v/1paWtoLhULY3t5GPp/HVlrFuhzEtzOnuJLTCgYHByus6G/+AlZWVsSNjQ1+0vMpLTeqqopEKofG9xXceQcEX3mQcEjIJpM8bnZ2FqIoGjiALYpkymazHFBVJpPBZjKLaCKHXC6HQqHARXCK7evrK7OiXxdYcSoEOGiuKhqNgmUJq9VaIe3s7PAs19bW0NXV9VWYmJgoE7VqqALS6TRkWYbP5wOLQbf52c+nL2/vP7RcRdOLy3grS9BoNBDGx8fz8Xicp0VGSjeVSmFxcRFer5cqj06xFboPTfCtSvgYV2Cdfoyb1gZca70IYXR0dJoqT0YCkNnhcMQ6OjrU5uZmMKl3DZfKnk82eD7bQUOceQDrzCOca6krCcPDw510Et0EAeh3WHvna+/6SvdpTK26UDu8EQlnW45DGBoaOsnuNR8OhxGLxVAsFmGz2cq1gPNPTuyalHswKI3cbJAbeQYMsMsDJEl6zdoUrJnAmgrsXezXAlig/oZYD7Nyn59MM63ZvsgD2GusY42xbjQaS+x+SzqdLnSw51mwkUmltP/MRtr/DeMW8yghqDBkAAAAAElFTkSuQmCC",
+        "description": "Rincez les lentilles. Pelez et émincez l'oignon et l'ail. Chauffez l'huile d'olive dans une casserole, puis ajoutez le cumin, faites-le griller à feu doux. Ajoutez l'oignon et l'ail et laissez suer 5 min, en remuant de temps en temps. Ajoutez le céleri et laissez cuire à feu doux 5 min. Ajoutez ensuite les lentilles et le bouillon de légumes.",
+        "resume": "Ajoutez l'oignon et l'ail et laissez suer 5 min",
+        "categorie": "légumes",
+        "enable": false,
+        "promote": true,
+        "producer": "6227333387be9b74ab8aec51",
+        "priceAverage": "6",
+        "unit": "Ltr"
+    },
+    {
+        "_id": "6227345987be9b74ab8aec65",
+        "name": "Lentilles corailles",
+        "sku": "lent-54",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKJSURBVDjLnZPfS5NRGMffq/6BIMhuuvRGKLqooItuugiCoi4qiNDoh2RS6BCnkA6mG+3dD0bvHDXB0iTtwm1M4X39sQ0ZqAzJJYGUNWFuMje3vdtSW9u38xxaDOvKA9/3cA7P93Oe9znPEVwul8XpdN4CIBxGwsDAQL3dbp8zm80NhwLQx2Qyafr7+8O9vb3HDgXQ6/VHenp6ZrRa7Vx7e/tR2ltYWDDMz89X/H5/RVGUvcnJSb/b7b7wXwApEAi0tLW1bVksli/BYDDEzD/YACkT8OO7x42xsbG9kZER7T+ASCQiLy8v/1paWtoLhULY3t5GPp/HVlrFuhzEtzOnuJLTCgYHByus6G/+AlZWVsSNjQ1+0vMpLTeqqopEKofG9xXceQcEX3mQcEjIJpM8bnZ2FqIoGjiALYpkymazHFBVJpPBZjKLaCKHXC6HQqHARXCK7evrK7OiXxdYcSoEOGiuKhqNgmUJq9VaIe3s7PAs19bW0NXV9VWYmJgoE7VqqALS6TRkWYbP5wOLQbf52c+nL2/vP7RcRdOLy3grS9BoNBDGx8fz8Xicp0VGSjeVSmFxcRFer5cqj06xFboPTfCtSvgYV2Cdfoyb1gZca70IYXR0dJoqT0YCkNnhcMQ6OjrU5uZmMKl3DZfKnk82eD7bQUOceQDrzCOca6krCcPDw510Et0EAeh3WHvna+/6SvdpTK26UDu8EQlnW45DGBoaOsnuNR8OhxGLxVAsFmGz2cq1gPNPTuyalHswKI3cbJAbeQYMsMsDJEl6zdoUrJnAmgrsXezXAlig/oZYD7Nyn59MM63ZvsgD2GusY42xbjQaS+x+SzqdLnSw51mwkUmltP/MRtr/DeMW8yghqDBkAAAAAElFTkSuQmCC",
+        "description": "Parmi toutes les lentilles, la lentille corail est particulièrement bonne pour favoriser la digestion. Nous vous conseillons d'en manger si vous avez un petit désordre intestinal. En effet, c'est souvent la membrane des légumes secs qui peut causer les flatulences. Or, la lentille corail en est débarrassée. Ajoutez à cela l'apport en fibre contenu par les lentilles et vous obtenez une légumineuse qui aide à digérer. ",
+        "resume": "Courantes au Moyen-Orient et en Afrique du Nord, les lentilles corail sont des lentilles rouges qui ont été dépelliculées. ",
+        "categorie": "légumes",
+        "enable": false,
+        "promote": true,
+        "producer": "6227333387be9b74ab8aec50",
+        "priceAverage": "5",
+        "unit": "Kg"
+    }
+]

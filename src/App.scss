@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* Variables CSS */
+:root{
+  --color1: #F3EFDB;
+  --color2: #DF775C;
+  --color3: #3C425A;
+  --color4: #3C5847;
+  --color5: #F2C98C;
+  --lightGrey: #DDD;
+  --grey: #CCC;
+  --darkGrey: #666;
+  --dark: #333;
+  --green: #393;
+  --red: #933;
+  --redFlash: #C33;
+  --orange: #C93;
+  --textFont: 'Roboto';
+  --titleFont: 'Leckerli One';
+}
+body{
+  font-family: var(--textFont);
+  background: #F2F2F2;
+  padding-top: 90px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+input[type=text],
+input[type=mail], 
+input[type=password], 
+input[type=number], 
+.input, 
+textarea, 
+select{
+  padding: 15px;
+  border: 1px solid rgb(182, 182, 182);
+  border-radius: 4px;
+  margin-right: 1%;
+  box-sizing: border-box;
+  flex: 1;
+}
+.subtitle{
+  margin-bottom: 10px;
+  font-weight: 700;
+  display: block;
+}
+.iconAdd{
+  font-size: 24px;
+}
+.selectField {
+  margin-bottom: 10px;
+}
+h1{
+  font-family: var(--titleFont);
+}
+h2{
+  font-weight: 700;
+  font-size: 35px;
+  font-family: var(--titleFont);
+  margin-bottom: 40px;
+  text-align: center;
+}
+.btn{
+  padding: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  background: var(--color3);
+  color: white;
+  font-weight: 700;
+  border: none;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.iconBtn{
+  cursor: pointer;
+  margin: 0 10px;
+}
+.field{
+  margin-bottom: 10px;
+  width: 100%;
+  display: flex;
+}
+.firstBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.numb{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding-right: 30px;
+  position: relative;
+  width: 30px;
+  display: block;
+  background: white;
+  span{
+      position: absolute; 
+      right: 0;
+      font-size: 18px;
+      display: block;
+      width: 20px;
+      height: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      color: var(--dark);
+      &.more{
+        top: 0;
+        &:hover {
+            color: var(--green);
+        }
+      }
+      &.less{
+          bottom: 0;
+          &:hover {
+              color: var(--red);
+          }
+      }
+    }
+  }
+.right{
+  position: relative;
+  .drop{
+    margin-top: 20px;
+    margin-left: 6px;
+      bottom: 0;
+      &:hover {
+          color: var(--redFlash);
+      }
+  }
+}
+
+
+.NotFoundPage{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 60px;
+  box-sizing: border-box;
+  height: 70vh;
+  div{
+    flex: 1;
+  }
+  .text{
+    margin-left: 40px;
+    font-weight: 700;
+  }
+  .status{
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+  }
+}
+
+.item.produit{
+  flex: 1 1 20%;
+  margin: 0 1% 100px 0;
+  border: 1px solid black;
+  position: relative;
+  img{
+      width: 100%;
+  }
+  .infosItem{
+      position: absolute;
+      border: 1px solid black;
+      bottom: 0;
+      transform: translateX(-50%) translateY(50%);
+      left: 50%;
+      padding: 10px 10px 30px;
+      background: #fff;
+      z-index: 2;
+      border-radius: 4px;
+      min-width: 50%;
+      h4{
+          font-weight: bold;
+          margin-bottom: 8px;
+          font-family: var(--titleFont);
+          font-size: 18px;
+          &::first-letter{
+              text-transform: uppercase;
+          }
+      }
+      ul{
+          li{
+              font-size: 16px;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              padding: 0 20px;
+              svg{
+                  margin-right: 10px;
+                  font-size: 20px;
+              }
+          }
+      }
+      a{
+          bottom: 0;
+          transform: translateX(-50%) translateY(50%);
+          left: 50%;
+          position: absolute;
+          z-index: 2;
+          button{
+              cursor: pointer;
+              border: none;
+              background: var(--color3);
+              color: #fff;
+              padding: 10px;
+              border-radius: 4px;
+          }
+      }
+  }
+}
+.productsListWrapper{
+  padding: 60px;
+}
+
+.firstBlock {
+  h2 {
+      color: white;
+  }
+  .searchBarContainer{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      #search {
+          background-color: var(--color1); 
+          border: none;
+          border-radius: 2px;
+          width: 30%;
+          margin-right: 5px;
+          height: 30px;
+
+      }
+      button {
+          background-color: var(--color1);
+          border: none;
+          border-radius: 2px;
+          height: 100%;
+      }
+      input[type="search"] {
+          -webkit-appearance: none;
+          box-sizing: border-box;
+      }
+  }
+  .iconCook {
+      color: var(--color1);
+      font-size: 60px;
+      padding-top: 40px;
+  }
+}
+.ProduitsList{
+  .firstBlock{
+    background: var(--color5);
+    h2{
+      color: black;
+    }
+  }
+}
+
+.modal{
+  position: fixed;
+  width: 100%;
+  height: 100vh !important;
+  background: rgba(0, 0, 0, 0.7);
+  top: 0;
+  height: 0;
+  z-index: 50;
+  justify-content: center;
+  align-items: center;
+  display: flex !important;
+  .modal-dialog-centered{
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    .modal-title.h4{
+      font-weight: 700;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .modal-footer{
+      margin-top: 20px;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      button{
+        padding: 15px;
+        border-radius: 4px;
+        cursor: pointer;
+        background: var(--color3);
+        color: white;
+        font-weight: 700;
+        border: none;
+        box-sizing: border-box;
+        text-transform: uppercase;
+        font-size: 12px;
+      }
+    }
+    button{
+      &.btn-close{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        right: -5px;
+        top: -5px;
+        border-radius: 100%;
+        border: none;
+        cursor: pointer;
+        &:after{
+          content:"X"
+        }
+      }
+    }
+  }
+}
